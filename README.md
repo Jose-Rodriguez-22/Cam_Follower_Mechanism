@@ -1,6 +1,6 @@
 # Cam Follower Mechanism
 
-![Assembly](assembly/cam_follower_assembly.png)
+![Assembly](https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/motion/partial_shaft_motion.gif)
 
 ## Overview
 
@@ -72,7 +72,7 @@ The simulation tracked the following system responses:
 ![Velocity](velocity_plot.png)
 
 ### Valve Acceleration
-![Acceleration](accel_plot.png)
+![Acceleration](accele_plot.png)
 
 ### Reaction Force
 ![Reaction Force](reaction_plot.png)
