@@ -1,6 +1,8 @@
 # Cam Follower Mechanism
 
-![Assembly](https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/motion/partial_shaft_motion.gif)
+<p align="center">
+  <img src="https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/motion/partial_shaft_motion.gif" width="600"/>
+</p>
 
 *The animation shows the camshaft driving the pushrod and rocker arm while the valve returns through spring force.*
 
