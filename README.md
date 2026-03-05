@@ -2,6 +2,8 @@
 
 ![Assembly](https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/motion/partial_shaft_motion.gif)
 
+*The animation shows the camshaft driving the pushrod and rocker arm while the valve returns through spring force.*
+
 ## Overview
 
 This project demonstrates the modeling and kinematic simulation of a cam–follower mechanism using **PTC Creo Mechanism**. The objective of the model is to convert rotational motion from a camshaft into linear motion of a valve system while analyzing the resulting position, velocity, acceleration, and reaction forces.
@@ -78,14 +80,6 @@ The simulation tracked the following system responses:
 ![Reaction Force](reaction_plot.png)
 
 These plots illustrate how the cam profile controls valve timing and force transmission during operation.
-
----
-
-## Motion Visualization
-
-![Motion](motion/motion_partial_cam_follower.mp4)
-
-The animation shows the camshaft driving the pushrod and rocker arm while the valve returns through spring force.
 
 ---
 
