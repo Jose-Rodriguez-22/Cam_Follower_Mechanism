@@ -87,7 +87,8 @@ These plots illustrate how the cam profile controls valve timing and force trans
 
 A fully dimensioned engineering drawing of the camshaft component is included:
 
-📄 **camshaft.pdf**
+📄 ![camshaft_drawing](https://github.com/Jose-Rodriguez-22/Cam_Follower_Mechanism/blob/main/camshaft.pdf)
+
 
 The drawing specifies:
 
