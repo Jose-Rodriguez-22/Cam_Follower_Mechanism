@@ -45,7 +45,7 @@ Follower velocity and acceleration can be expressed as:
 v(t) = dx/dt  
 a(t) = d²x/dt²
 
-These relationships were analyzed using kinematic simulation in Creo.
+These relationships were analyzed using kinematic simulation.
 
 ---
 
